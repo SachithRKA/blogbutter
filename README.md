@@ -1,3 +1,3 @@
 # blogbutter
 
-First Heroku ButterCMS Blog.
+Heroku ButterCMS Blog Website.
